@@ -1,4 +1,6 @@
-# vue_firebase_auth_test
+# lean_vue_firebase_auth
+
+[Vue\.js \+ Firebase を使って爆速でユーザ認証を実装する \- Qiita](https://qiita.com/sin_tanaka/items/ea149a33bd9e4b388241)を写経したリポジトリ
 
 > A Vue.js project
 
@@ -19,4 +21,3 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# lean_vue_firebase_auth
